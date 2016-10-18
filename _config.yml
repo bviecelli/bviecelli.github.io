@@ -1,4 +1,4 @@
-permalink: /:year-:month-:day/:title/
+permalink: /:day-:month-:year/:title/
 
 highlighter: rouge
 markdown: kramdown
@@ -25,20 +25,16 @@ defaults:
 
 
 
-title: "RainyAlley"
-email: "sincerebravefight@gmail.com"
-description: "Developer"
-github_username:  "WakelessDragon"
-swiftype_searchId: "ncwR9a8S9CTx2q9SgsJm"
-disqus_shortname: "rainyalley"
+title: "Blog do Bruno Viecelli"
+email: "bviecelli@gmail.com"
+description: "Engenheiro de Computação"
+github_username:  "bviecelli"
+swiftype_searchId: ""
+disqus_shortname: "brunoviecelli"
 
 
 
 
-url: "http://blog.rainyalley.com"
-imgrepo: "http://blog.rainyalley.com/static/img"
-
-
-#url: "http://127.0.0.1:4000"
-#imgrepo: "http://127.0.0.1:4000/static/img"
+url: "http://bviecelli.eng.br"
+imgrepo: "http://bviecelli.eng.br/static/img"
 
