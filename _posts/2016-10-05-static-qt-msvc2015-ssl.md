@@ -2,8 +2,8 @@
 title: Qt 5.6 estático + VS + SSL
 featured: images/guide-tag.png
 layout: post
-tags: Qt, OpenSSL, Static
-categories: Desenvolvimento Desktop
+tags: Qt OpenSSL Static
+categories: Desenvolvimento
 ---
 
 # Compilando o Qt 5.6 estático, com o Visual Studio e com suporte à SSL

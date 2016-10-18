@@ -2,7 +2,7 @@
 title: Olá mundo
 featured: images/hello-world.jpg
 layout: post
-tags: Oi, Olá
+tags: Oi Olá
 categories: Apresentação
 ---
 
